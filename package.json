@@ -1,0 +1,11 @@
+{
+  "name": "dog-wiki",
+  "version": "1",
+  "description": "Dog wiki with pictures",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gurseet Singh",
+  "license": "ISC"
+}
